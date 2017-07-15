@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="auth.api.views_api_project_try.GenericCommonResource.kwargs" />
+          <option value="auth.api.views_api_project_try.GenericCommonResourceMixin.kwargs" />
+          <option value="auth.api.views_api_resource.GenericCommonResourceMixin.kwargs" />
+          <option value="str.username" />
+          <option value="str.password" />
+          <option value="object.finalize_response" />
+          <option value="auth.api.views_api_resource.GenericCommonResourceMixin.request" />
+          <option value="object.initial" />
+          <option value="tuple.keys" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
